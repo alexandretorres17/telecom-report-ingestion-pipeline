@@ -1,0 +1,7 @@
+config.ini
+runtime/
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
